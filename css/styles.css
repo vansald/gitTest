@@ -1,0 +1,14 @@
+body{
+	background: #ccc;
+
+	font-family: verdana;
+}
+
+
+h1 {
+	color: blue;
+}
+
+h2, h3, h4, h5, h6 {
+	color: green;
+}
