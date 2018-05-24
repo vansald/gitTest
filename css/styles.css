@@ -13,12 +13,25 @@ nav{
 	font-weight: bold;
 	}
 
-a{
+	a{
 	padding: 10px;
 	text-transform: uppercase;
 	text-decoration: none;
 
 }
+
+
+	footer{
+	border: 2px dashed grey;
+	font-family: verdana;
+	font-size: 10px;
+	}
+
+	footer a{
+	padding: 10px;
+	text-decoration: none;
+	}
+
 
 a:hover{
 	color: orange;
