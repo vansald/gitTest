@@ -9,11 +9,20 @@ body{
 
 nav{
 	border: 2px solid grey;
+	font-family: verdana;
+	font-weight: bold;
 	}
 
 a{
 	padding: 10px;
 	text-transform: uppercase;
+	text-decoration: none;
+
+}
+
+a:hover{
+	color: orange;
+
 }
 
 li{
